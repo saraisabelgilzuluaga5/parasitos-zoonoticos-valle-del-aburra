@@ -1,5 +1,7 @@
 # Parásitos Zoonóticos en Parques Públicos del Valle del Aburrá
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://parasitos-zoonoticos-valle-del-aburra-s3rin3ls6mfbwgkmrhesxz.streamlit.app/)
+
 Dashboard interactivo que visualiza la prevalencia de parásitos zoonóticos en heces de perros recolectadas en parques públicos urbanos del Área Metropolitana del Valle del Aburrá (diciembre 2025 - mayo 2026).
 
 ## Trabajo de Grado
